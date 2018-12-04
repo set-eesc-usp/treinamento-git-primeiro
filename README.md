@@ -10,6 +10,18 @@ Elaboração do conteúdo programático do curso a ser ofertado anualmente para 
 * [Definição do conteúdo a ser ministado](docs/conteudo.md)
 * Definição de sistemática de uso das ferramentas.
 
+## Configuração do ambiente
+
+* link aqui
+
+## Colone do projeto
+* clonar o projeto e exercitar 
+  * git status 
+  * git add
+  * git commit 
+  * git push
+  * git pull
+
 ## Segunda etapa
 
 Oferecer o treinamento aos alunos sistematicamente.
