@@ -7,7 +7,7 @@ Treinamento dos docentes e funcionários na ferramenta GIT.
 
 Elaboração do conteúdo programático do curso a ser ofertado anualmente para os alunos ingressantes.
 * Definição da carga horária
-* Definição do conteúdo a ser ministado
+* [Definição do conteúdo a ser ministado](conteudo.md)
 * Definição de sistemática de uso das ferramentas.
 
 ## Segunda etapa
