@@ -1,8 +1,8 @@
-# treinamento-git
+# Treinamento git
 Projeto de implantação de cultura git no SET
 
-# Primeira etapa
+## Primeira etapa
 
-Treinamento dos docents e funcionários na ferramenta GIT
+Treinamento dos docentes e funcionários na ferramenta GIT
 
-Elaboração do conteúdo programático do curso a ser ofertado anualmente para o s alunos ingressantes.
+Elaboração do conteúdo programático do curso a ser ofertado anualmente para os alunos ingressantes.
